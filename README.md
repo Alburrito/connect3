@@ -11,13 +11,13 @@ Another Tic-tac-toe in ASCII and Python that I made once I was bored. And to top
 Just clone the repo:
 
 ```sh
-git clone https://github.com/Alburrito/connect3.git
+$ git clone https://github.com/Alburrito/connect3.git
 ```
 
 Then go to connect3/connect3 directory and execute:
 
 ```sh
-python3 connect3.py
+$ python3 connect3.py
 ```
 
 
