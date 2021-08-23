@@ -25,18 +25,15 @@ python3 connect3.py
 
 When the game starts, the title screen appears where you enter the names of the participants:
 
-<span style="display:block;text-align:center">![index](img/index.png)</span>
-<!-- ![index](img/index.png) -->
+![replay](img/replay.png)
 
 To select the box, coordinates are requested (from 1 to 3) counting from left to right and from top to bottom:
 
-<span style="display:block;text-align:center">![game](img/game.png)</span>
-<!-- ![game](img/game.png) -->
+![replay](img/replay.png)
 
 At the end of a game, the victory counter increases and you can choose to play a new game or end the game:
 
-<span style="display:block;text-align:center">![replay](img/replay.png)</span>
-<!-- ![replay](img/replay.png) -->
+![replay](img/replay.png)
 
 
 
